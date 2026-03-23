@@ -63,7 +63,7 @@ fun WeatherScreen(modifier: Modifier = Modifier) {
     var forecastList by remember { mutableStateOf(listOf<String>()) }
     var isLoading by remember { mutableStateOf(false) }
 
-    val apiKey = "da32573662028158d26a0a0cc76677de"
+    val apiKey = "YOUR_API_KEY"
 
     Box(
         modifier = modifier
