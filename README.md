@@ -1,3 +1,15 @@
+## Screenshots
+
+### Home Screen
+![Home](home.png)
+
+### Forecast
+![Forecast](forecast.png)
+
+### Error Result
+![Error](error.png)
+
+
 Overview
 
 This project is an Android application built using Kotlin and Jetpack Compose that retrieves and displays real-time weather data using the OpenWeather API. The application allows users to enter a city name and view current temperature, weather conditions, and basic forecast information.
